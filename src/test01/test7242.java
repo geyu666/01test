@@ -29,8 +29,8 @@ public class test7242 {
         int n = sc.nextInt();
         sc.nextLine();//换行符
         //输入两个数组
-        ArrayList<Integer> listm = new ArrayList<Integer>();
-        ArrayList<Integer> listn = new ArrayList<Integer>();
+        ArrayList<Integer> listm = new ArrayList<>();
+        ArrayList<Integer> listn = new ArrayList<>();
         for (int i = 0; i <= m-1; i++) {
             listm.add(sc.nextInt());
         }

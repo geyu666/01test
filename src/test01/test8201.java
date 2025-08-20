@@ -47,8 +47,8 @@ public class test8201 {
         //2.移动零
         int length = nums.length;
         int n = 0;
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] == 0){
+        for (int k : nums) {
+            if (k == 0) {
                 n++;
             }
         }
