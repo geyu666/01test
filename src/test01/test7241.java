@@ -36,7 +36,7 @@
 package test01;
 import java.util.*;
 
-public class test13 {
+public class test7241 {
     public static void main(String[] args) {
         //输入一个数组和整数
         Scanner sc = new Scanner(System.in);

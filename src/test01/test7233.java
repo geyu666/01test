@@ -11,7 +11,7 @@
 //        （4）输出数组
 package test01;
 import java.util.*;
-public class test12 {
+public class test7233 {
     public static void main(String[] args) {
         ArrayList<String> listShow = new ArrayList<>();
         Scanner sc = new Scanner(System.in);

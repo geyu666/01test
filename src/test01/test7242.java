@@ -21,7 +21,7 @@
 package test01;
 import java.util.*;
 
-public class test14 {
+public class test7242 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //输入m,n

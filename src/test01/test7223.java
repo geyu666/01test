@@ -44,7 +44,7 @@ package test01;
 import java.util.*;
 import java.util.Arrays;
 
-public class test9 {
+public class test7223 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
